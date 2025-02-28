@@ -8,9 +8,6 @@
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lunvit&show_icons=true&theme=radical)
 
-### 🏷 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunvit&layout=compact&theme=dracula)
-
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lunvit&theme=highcontrast)
 
