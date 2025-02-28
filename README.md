@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm 김서현!
 
-<!--
-**lunvit/lunvit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆 GitHub Profile Trophy
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=lunvit&theme=darkhub&no-bg=true&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lunvit&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏷 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunvit&layout=compact&theme=dracula)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lunvit&theme=highcontrast)
+
