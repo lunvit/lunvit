@@ -1,5 +1,5 @@
 ## 👋 안뇽!
-## 🎨 Web & UX/UI Designer | ✨ Using AI tools
+## 🎨 Web & UX/UI & Interaction Designer | ✨ Using AI tools
 ## Personal Brand | lunvit.com (working) 
 
 ### 🏆 GitHub Profile Trophy
